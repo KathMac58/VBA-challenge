@@ -21,6 +21,11 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 • Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
+Included in this repo you will find:
+• A Word document including screenshots of the solution(s) for this challenge
+• Within the Word document you will find a link to the full spreadsheet and solution, on OneDrive
+• The VBA code in Visual Basic to support the results screenshotted in the Word document
+
 
 
 
