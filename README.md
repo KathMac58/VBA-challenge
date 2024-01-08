@@ -27,11 +27,11 @@ NOTE: Read attachments in the order they are numbered.
 
 Included in this repo you will find:
 
-• (1) README.md file
+• README.md file
 
-• (2) The VBA code in Visual Basic to support the results screenshotted in the Word document
+• (1) The VBA code in Visual Basic to support the results screenshotted in the Word document
 
-• (3-10) Screenshots of the solution(s) for this challenge
+• (2-9) Screenshots of the solution(s) for this challenge
 
 • A link to the full spreadsheet and solution on OneDrive:  https://drive.google.com/drive/u/2/folders/1uqxO3_KIqolR5ccQ01lZOLiC-Ci5Kc07
 
